@@ -1,0 +1,3 @@
+ChangeScreenResolution.exe /w=800 /h=600 /d=1 
+
+exit
